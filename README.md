@@ -16,6 +16,9 @@ Nobody’s saying Go is flawless (what language is?), but when it shines, it shi
 
 You’re coding away, and suddenly, Go does something so slick you can’t believe it. Or maybe you’re stuck and wondering if it’s got your solution. Pop in here, skim the list, and see why others think it’s great. If it’s a common strength—like concurrency magic or single-binary bliss—it’ll be here. Then you can decide: lean into Go’s strengths, tweak your approach, or just bask in the glow of a well-made tool.
 
+## See also
+
+If you want to see some not so good features in go, see https://github.com/ksimka/go-is-not-good
 
 # The List
 
